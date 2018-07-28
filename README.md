@@ -20,7 +20,6 @@ How has temperature changed over the last 3 years in California?
 What does solar production look like in 2015 to now?
 Is renewable generation more in the summer versus the winter? 
 How do the seasons affect renewable energy generation? 
-
 How has L&P pricing affected utility rates?
 
 - Data Sets to be Used:
@@ -30,4 +29,6 @@ http://www.caiso.com/TodaysOutlook/Pages/default.aspx
 
 - Rough Breakdown of Tasks
 Get 3 years of electricity usage, renewable, pricing and temperature.
+Clean up the data and organize it into usable information
+
 

@@ -32,3 +32,19 @@ Get 3 years of electricity usage, renewable, pricing and temperature.
 Clean up the data and organize it into usable information
 
 
+
+
+
+TO DOs....
+
+1) Download CAISO Data (Identified)
+
+2) Weather Data (Identified)
+
+3) Residential Solar Growth (Not Identified)
+
+4) Electric Vehicle Growth (Not Identified)
+
+5) Population Growth (Identified)
+
+6) 

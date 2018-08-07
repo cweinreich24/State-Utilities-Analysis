@@ -1,0 +1,527 @@
+Technology,Gen Type,Technology Sub,Year,Levelized cost of energy,Fuel
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2009,0.974,Wind
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2009,0.941,Wind
+Photovoltaic,Photovoltaic,Residential,2007,0.608,Wind
+Photovoltaic,Photovoltaic,Residential,2006,0.601,Wind
+Photovoltaic,Photovoltaic,Residential,2005,0.598,Wind
+Photovoltaic,Photovoltaic,Residential,2008,0.596,Wind
+Photovoltaic,Photovoltaic,,2007,0.59,Wind
+Photovoltaic,Photovoltaic,Residential,2008,0.585,Wind
+Photovoltaic,Photovoltaic,,2007,0.583,Wind
+Photovoltaic,Photovoltaic,,2005,0.573,Wind
+Photovoltaic,Photovoltaic,,2006,0.566,Wind
+Photovoltaic,Photovoltaic,,2008,0.563,Wind
+Photovoltaic,Photovoltaic,Residential,2009,0.56,Wind
+Photovoltaic,Photovoltaic,Commercial,2005,0.546,Wind
+Photovoltaic,Photovoltaic,,2009,0.542,Wind
+Photovoltaic,Photovoltaic,Commercial,2006,0.539,Wind
+Photovoltaic,Photovoltaic,Commercial,2009,0.525,Wind
+Photovoltaic,Photovoltaic,Commercial,2008,0.521,Wind
+Photovoltaic,Photovoltaic,Commercial,2007,0.518,Wind
+Photovoltaic,Photovoltaic,Residential,2011,0.512,Wind
+Photovoltaic,Photovoltaic,Commercial,2008,0.497,Wind
+Photovoltaic,Photovoltaic,,2007,0.495,Wind
+Photovoltaic,Photovoltaic,Commercial,2011,0.492,Wind
+Distributed Generation,Distributed Generation,,2009,0.48,Wind
+Photovoltaic,Photovoltaic,Residential,2010,0.478,Wind
+Photovoltaic,Photovoltaic,,2008,0.473,Wind
+Photovoltaic,Photovoltaic,,2010,0.454,Wind
+Photovoltaic,Photovoltaic,Residential,2011,0.427,Wind
+Photovoltaic,Photovoltaic,,2009,0.407,Wind
+Photovoltaic,Photovoltaic,Commercial,2010,0.402,Wind
+Photovoltaic,Photovoltaic,Utility,2008,0.397,Wind
+Photovoltaic,Photovoltaic,Residential,2008,0.397,Wind
+Photovoltaic,Photovoltaic,,2011,0.396,Wind
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2009,0.396,Wind
+Photovoltaic,Photovoltaic,Commercial,2012,0.395,Wind
+Photovoltaic,Photovoltaic,Residential,2010,0.385,Wind
+Photovoltaic,Photovoltaic,Residential,2011,0.381,Wind
+Photovoltaic,Photovoltaic,,2008,0.379,Wind
+Photovoltaic,Photovoltaic,Commercial,2012,0.373,Wind
+Photovoltaic,Photovoltaic,,2009,0.37,Wind
+Photovoltaic,Photovoltaic,Residential,2010,0.369,Wind
+Photovoltaic,Photovoltaic,Residential,2012,0.366,Wind
+Photovoltaic,Photovoltaic,Commercial,2011,0.364,Wind
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2009,0.364,Wind
+Photovoltaic,Photovoltaic,Commercial,2010,0.352,Wind
+Combustion Turbine,Combustion Turbine,Advanced Combustion Turbine,2009,0.351,Wind
+Photovoltaic,Photovoltaic,Residential,2011,0.35,Wind
+Photovoltaic,Photovoltaic,Commercial,2010,0.347,Wind
+Photovoltaic,Photovoltaic,,2012,0.346,Wind
+Photovoltaic,Photovoltaic,Utility,2008,0.344,Wind
+Photovoltaic,Photovoltaic,Commercial,2011,0.343,Wind
+Photovoltaic,Photovoltaic,Utility,2011,0.342,Wind
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2013,0.339,Wind
+Photovoltaic,Photovoltaic,Utility,2011,0.338,Wind
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2013,0.331,Wind
+Photovoltaic,Photovoltaic,Commercial,2008,0.331,Wind
+Photovoltaic,Photovoltaic,Commercial,2011,0.328,Wind
+Photovoltaic,Photovoltaic,residential,2010,0.327,Wind
+Photovoltaic,Photovoltaic,Residential,2013,0.324,Wind
+Photovoltaic,Photovoltaic,Commercial,2011,0.323,Wind
+Photovoltaic,Photovoltaic,,2010,0.322,Wind
+Photovoltaic,Photovoltaic,Residential,2010,0.32,Wind
+Photovoltaic,Photovoltaic,Commercial,2012,0.318,Wind
+Photovoltaic,Photovoltaic,Commercial,2012,0.318,Wind
+Photovoltaic,Photovoltaic,Commercial,2010,0.304,Wind
+Photovoltaic,Photovoltaic,Commercial,2010,0.303,Wind
+Photovoltaic,Photovoltaic,,2013,0.299,Wind
+Photovoltaic,Photovoltaic,Commercial,2010,0.299,Wind
+Photovoltaic,Photovoltaic,Residential,2008,0.298,Wind
+Photovoltaic,Photovoltaic,Commercial,2011,0.293,Wind
+Photovoltaic,Photovoltaic,,2009,0.286,Wind
+Photovoltaic,Photovoltaic,,2009,0.285,Wind
+Hydroelectric,Hydroelectric,,2010,0.284,Wind
+Hydroelectric,Hydroelectric,Conventional,2010,0.284,wind
+Photovoltaic,Photovoltaic,,2007,0.274,wind
+Photovoltaic,Photovoltaic,Commercial,2013,0.273,Wind
+Photovoltaic,Photovoltaic,Commercial,2012,0.267,Wind
+Photovoltaic,Photovoltaic,Utility,2010,0.267,Wind
+Photovoltaic,Photovoltaic,Utility,2008,0.265,Wind
+Photovoltaic,Photovoltaic,Commercial,2010,0.264,Wind
+Photovoltaic,Photovoltaic,Commercial,2011,0.259,Wind
+Small Hydropower,Small Hydro,,2009,0.258,Wind
+Photovoltaic,Photovoltaic,Utility,2011,0.251,Wind
+Photovoltaic,Photovoltaic,Utility,2011,0.25,Wind
+Solar Thermal,Solar Thermal,,2011,0.25,Wind
+Photovoltaic,Photovoltaic,Residential,2011,0.249,Wind
+Photovoltaic,Photovoltaic,Utility,2011,0.249,Wind
+Photovoltaic,Photovoltaic,Commercial,2008,0.248,Wind
+Photovoltaic,Photovoltaic,Residential,2014,0.247,Wind
+Solar Thermal,Solar Thermal,Trough,2009,0.247,Wind
+Ocean,Ocean,Marine Hydro-Kinetic,2011,0.245,Wind
+Photovoltaic,Photovoltaic,Residential,2009,0.244,Wind
+Photovoltaic,Photovoltaic,,2009,0.243,Wind
+Photovoltaic,Photovoltaic,,2008,0.242,Wind
+Solar Thermal,Solar Thermal,,2011,0.239,Wind
+Photovoltaic,Photovoltaic,Utility,2010,0.239,Wind
+Photovoltaic,Photovoltaic,,2009,0.237,Wind
+Solar Thermal,Solar Thermal,Trough,2009,0.237,Wind
+Photovoltaic,Photovoltaic,Commercial,2011,0.236,Wind
+Photovoltaic,Photovoltaic,Residential,2012,0.235,Wind
+Ocean,Ocean,Marine Hydro-Kinetic,2011,0.235,Wind
+Photovoltaic,Photovoltaic,Commercial,2012,0.232,Wind
+Photovoltaic,Photovoltaic,Commercial,2012,0.23,Wind
+Solar Thermal,Solar Thermal,Trough,2010,0.228,Solar
+Ocean,Ocean,Marine Hydro-Kinetic,2011,0.225,Solar
+Photovoltaic,Photovoltaic,Utility,2009,0.225,Solar
+Solar Thermal,Solar Thermal,,2009,0.223,Solar
+Photovoltaic,Photovoltaic,Residential,2009,0.22,Solar
+Fuel Cell,Fuel Cell,,2009,0.22,Solar
+Distributed Generation,Distributed Generation,,2011,0.219,Solar
+Solar Thermal,Solar Thermal,,2011,0.218,Solar
+Solar Thermal,Solar Thermal,Tower,2014,0.217,Solar
+Solar Thermal,Solar Thermal,,2008,0.217,Solar
+Solar Thermal,Solar Thermal,,2008,0.217,Solar
+Photovoltaic,Photovoltaic,Utility,2012,0.216,Solar
+Solar Thermal,Solar Thermal,,2010,0.216,Solar
+Photovoltaic,Photovoltaic,Utility,2013,0.215,Solar
+Solar Thermal,Solar Thermal,Trough,2010,0.214,Solar
+Solar Thermal,Solar Thermal,Tower,2013,0.213,Solar
+Offshore,Wind-Offshore,,2009,0.213,Solar
+Solar Thermal,Solar Thermal,Tower,2014,0.212,Solar
+Solar Thermal,Solar Thermal,Trough,2009,0.212,Solar
+Photovoltaic,Photovoltaic,,2009,0.211,Solar
+Solar Thermal,Solar Thermal,,2010,0.21,Solar
+Solar Thermal,Solar Thermal,Tower,2009,0.209,Solar
+Solar Thermal,Solar Thermal,,2009,0.208,Solar
+Solar Thermal,Solar Thermal,Trough,2010,0.203,Solar
+Solar Thermal,Solar Thermal,Trough,2009,0.202,Solar
+Photovoltaic,Photovoltaic,Commercial,2012,0.201,Solar
+Photovoltaic,Photovoltaic,,2009,0.201,Solar
+Offshore,Wind-Offshore,,2014,0.2,Solar
+Photovoltaic,Photovoltaic,Utility,2008,0.199,Solar
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2014,0.197,Solar
+Solar Thermal,Solar Thermal,,2011,0.197,Solar
+Photovoltaic,Photovoltaic,Commercial,2013,0.193,Solar
+Solar Thermal,Solar Thermal,Trough,2009,0.193,Solar
+Solar Thermal,Solar Thermal,,2010,0.192,Solar
+Photovoltaic,Photovoltaic,Residential,2009,0.19,Solar
+Offshore,Wind-Offshore,Floating Platform,2014,0.188,Solar
+Offshore,Wind-Offshore,Floating Platform,2013,0.188,Solar
+Combustion Turbine,Combustion Turbine,Advanced Combustion Turbine,2013,0.188,Solar
+Distributed Generation,Distributed Generation,,2011,0.187,Solar
+Solar Thermal,Solar Thermal,,2010,0.187,Solar
+Solar Thermal,Solar Thermal,,2009,0.186,Solar
+Hydroelectric,Hydroelectric,Conventional,2009,0.186,Solar
+Offshore,Wind-Offshore,,2010,0.184,Solar
+Offshore,Wind-Offshore,,2008,0.184,Solar
+Photovoltaic,Photovoltaic,Commercial,2012,0.183,Solar
+Solar Thermal,Solar Thermal,,2008,0.183,Solar
+Solar Thermal,Solar Thermal,,2010,0.181,Solar
+Photovoltaic,Photovoltaic,Commercial,2012,0.179,Solar
+Offshore,Wind-Offshore,,2009,0.179,Solar
+Solar Thermal,Solar Thermal,Tower,2013,0.177,Solar
+Solar Thermal,Solar Thermal,,2011,0.177,Solar
+Offshore,Wind-Offshore,Fixed Platform,2011,0.174,Solar
+Photovoltaic,Photovoltaic,,2009,0.174,Solar
+Offshore,Wind-Offshore,Floating Platform,2014,0.17,Solar
+Offshore,Wind-Offshore,Floating Platform,2013,0.17,Solar
+Solar Thermal,Solar Thermal,,2009,0.169,Solar
+Photovoltaic,Photovoltaic,Residential,2014,0.168,Solar
+Solar Thermal,Solar Thermal,Trough,2009,0.168,Solar
+Offshore,Wind-Offshore,,2011,0.167,Solar
+Solar Thermal,Solar Thermal,,2011,0.166,Solar
+Photovoltaic,Photovoltaic,Utility,2010,0.166,Solar
+Offshore,Wind-Offshore,Fixed Platform,2014,0.165,Solar
+Offshore,Wind-Offshore,Fixed Platform,2013,0.165,Solar
+Solar Thermal,Solar Thermal,Tower,2013,0.165,Solar
+Photovoltaic,Photovoltaic,Commercial,2014,0.164,Solar
+Solar Thermal,Solar Thermal,Tower,2014,0.164,Solar
+Solar Thermal,Solar Thermal,,2010,0.164,Solar
+Biopower,Biopower,Stoker CHP,2012,0.163,Solar
+Fuel Cell,Fuel Cell,,2014,0.162,Solar
+Photovoltaic,Photovoltaic,Utility,2011,0.162,Solar
+Solar Thermal,Solar Thermal,,2010,0.16,Solar
+Biopower,Biopower,Biogas,2010,0.16,Solar
+Photovoltaic,Photovoltaic,Utility,2009,0.16,Solar
+Photovoltaic,Photovoltaic,Utility,2011,0.159,Solar
+Biopower,Biopower,Gasifier CHP,2012,0.157,Solar
+Offshore,Wind-Offshore,Fixed Platform,2010,0.157,Solar
+Offshore,Wind-Offshore,,2009,0.157,Solar
+Biopower,Biopower,Digester,2012,0.156,Solar
+Distributed Generation,Distributed Generation,,2011,0.155,Solar
+Photovoltaic,Photovoltaic,Utility,2010,0.155,Solar
+Photovoltaic,Photovoltaic,Utility,2010,0.154,Solar
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2009,0.154,Solar
+EGS,Geothermal,Enhanced Geothermal System,2013,0.153,Solar
+EGS,Geothermal,Enhanced Geothermal System,2013,0.153,Solar
+Combustion Turbine,Combustion Turbine,Advanced Combustion Turbine,2009,0.153,Solar
+Solar Thermal,Solar Thermal,,2007,0.153,Solar
+Photovoltaic,Photovoltaic,Utility,2011,0.151,Solar
+EGS,Geothermal,Enhanced Geothermal System,2010,0.15,Solar
+Solar Thermal,Solar Thermal,Trough,2009,0.149,Solar
+Solar Thermal,Solar Thermal,,2010,0.148,Solar
+Solar Thermal,Solar Thermal,,2010,0.148,Solar
+Solar Thermal,Solar Thermal,,2008,0.148,Solar
+Biopower,Biopower,,2013,0.147,Solar
+Solar Thermal,Solar Thermal,Tower,2009,0.147,Solar
+Solar Thermal,Solar Thermal,Tower,2013,0.146,Solar
+Fuel Cell,Fuel Cell,,2009,0.146,Solar
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2009,0.146,Solar
+Offshore,Wind-Offshore,,2008,0.146,Solar
+Fuel Cell,Fuel Cell,,2011,0.144,Solar
+Offshore,Wind-Offshore,,2010,0.144,Solar
+Solar Thermal,Solar Thermal,,2009,0.144,Solar
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2014,0.143,Solar
+Photovoltaic,Photovoltaic,Residential,2009,0.143,Solar
+Photovoltaic,Photovoltaic,Utility,2013,0.142,Solar
+Distributed Generation,Distributed Generation,,2011,0.142,Solar
+Solar Thermal,Solar Thermal,Tower,2013,0.141,Solar
+Hydrothermal,Geothermal,Flash,2013,0.141,Solar
+Biopower,Biopower,Fluidized Bed,2012,0.141,Solar
+Small Hydropower,Small Hydro,,2011,0.14,Solar
+Solar Thermal,Solar Thermal,,2010,0.136,Solar
+Solar Thermal,Solar Thermal,,2009,0.136,Solar
+Offshore,Wind-Offshore,,2011,0.135,Solar
+Solar Thermal,Solar Thermal,,2010,0.135,Solar
+EGS,Geothermal,Enhanced Geothermal System,2014,0.132,Solar
+Offshore,Wind-Offshore,,2009,0.132,Solar
+EGS,Geothermal,Enhanced Geothermal System,2009,0.132,Solar
+Nuclear,Nuclear,,2014,0.129,Solar
+Offshore,Wind-Offshore,,2009,0.128,Solar
+Offshore,Wind-Offshore,,2009,0.128,Solar
+Offshore,Wind-Offshore,,2009,0.127,Solar
+Solar Thermal,Solar Thermal,,2011,0.126,Solar
+Solar Thermal,Solar Thermal,,2010,0.126,Solar
+Distributed Generation,Distributed Generation,,2011,0.125,Solar
+Offshore,Wind-Offshore,,2010,0.125,Solar
+Offshore,Wind-Offshore,Fixed Platform,2010,0.124,Solar
+Offshore,Wind-Offshore,,2008,0.124,Solar
+Biopower,Biopower,Fluidized Bed,2009,0.123,Solar
+Distributed Generation,Distributed Generation,Microturbine,2014,0.122,Solar
+Offshore,Wind-Offshore,Fixed Platform,2010,0.122,Solar
+Biopower,Biopower,,2009,0.121,Solar
+Hydroelectric,Hydroelectric,,2009,0.12,Solar
+Onshore,Land-Based Wind,,2010,0.119,Solar
+Offshore,Wind-Offshore,,2011,0.118,Solar
+Nuclear,Nuclear,,2009,0.118,Solar
+Photovoltaic,Photovoltaic,Commercial,2014,0.117,Solar
+Biopower,Biopower,Biogas,2012,0.117,Solar
+Biopower,Biopower,,2013,0.116,Solar
+Biopower,Biopower,Fluidized Bed,2012,0.116,Solar
+Offshore,Wind-Offshore,,2009,0.116,Solar
+Hydroelectric,Hydroelectric,,2009,0.116,Solar
+Hydroelectric,Hydroelectric,,2009,0.116,Solar
+Biopower,Biopower,Gasifier CHP,2012,0.115,Solar
+Nuclear,Nuclear,,2009,0.115,Solar
+Fuel Cell,Fuel Cell,,2010,0.114,Solar
+Onshore,Land-Based Wind,,2009,0.114,Solar
+Biopower,Biopower,Fluidized Bed,2009,0.114,Solar
+Photovoltaic,Photovoltaic,Utility,2014,0.113,Solar
+Fuel Cell,Fuel Cell,,2011,0.113,Solar
+Offshore,Wind-Offshore,,2009,0.113,Solar
+Biopower,Biopower,,2009,0.113,Solar
+Biopower,Biopower,Stoker boiler,2012,0.112,Solar
+Onshore,Land-Based Wind,,2009,0.111,Solar
+Hydrothermal,Geothermal,Binary,2013,0.11,Solar
+Biopower,Biopower,,2014,0.109,Solar
+Biopower,Biopower,,2009,0.109,Solar
+Biopower,Biopower,,2009,0.109,Solar
+Onshore,Land-Based Wind,,2013,0.108,Solar
+Distributed Generation,Distributed Generation,,2011,0.108,Solar
+Biopower,Biopower,,2010,0.107,Geothermal
+Onshore,Land-Based Wind,,2011,0.105,Geothermal
+Onshore,Land-Based Wind,,2010,0.105,Geothermal
+EGS,Geothermal,Enhanced Geothermal System,2009,0.105,Geothermal
+Photovoltaic,Photovoltaic,Utility,2012,0.103,Geothermal
+Solar Thermal,Solar Thermal,,2010,0.103,Geothermal
+Combustion Turbine,Combustion Turbine,,2010,0.103,Geothermal
+Offshore,Wind-Offshore,,2014,0.102,Geothermal
+Offshore,Wind-Offshore,,2011,0.102,Geothermal
+Hydrothermal,Geothermal,Flash,2010,0.102,Geothermal
+Nuclear,Nuclear,,2010,0.102,Geothermal
+Biopower,Biopower,,2009,0.102,Geothermal
+Solar Thermal,Solar Thermal,Tower,2014,0.101,Geothermal
+Fuel Cell,Fuel Cell,,2014,0.1,Geothermal
+Hydrothermal,Geothermal,Binary,2011,0.1,Geothermal
+Blind Geothermal,Geothermal,Blind,2011,0.1,Geothermal
+Fuel Cell,Fuel Cell,,2009,0.1,Geothermal
+Hydroelectric,Hydroelectric,,2011,0.098,Geothermal
+Fuel Cell,Fuel Cell,,2010,0.098,Geothermal
+Biopower,Biopower,,2014,0.097,Geothermal
+Hydrothermal,Geothermal,Binary,2013,0.097,Geothermal
+Biopower,Biopower,,2009,0.097,Geothermal
+Photovoltaic,Photovoltaic,Utility,2014,0.096,Geothermal
+Photovoltaic,Photovoltaic,Utility,2014,0.096,Geothermal
+Fuel Cell,Fuel Cell,,2011,0.096,Geothermal
+Biopower,Biopower,,2009,0.096,Geothermal
+Onshore,Land-Based Wind,,2013,0.094,Geothermal
+EGS,Geothermal,Enhanced Geothermal System,2013,0.094,Geothermal
+EGS,Geothermal,Enhanced Geothermal System,2013,0.094,Geothermal
+Onshore,Land-Based Wind,,2011,0.094,Geothermal
+Biopower,Biopower,,2010,0.094,Geothermal
+Hydroelectric,Hydroelectric,,2010,0.093,Geothermal
+Biopower,Biopower,,2013,0.092,Geothermal
+Onshore,Land-Based Wind,,2010,0.092,Geothermal
+EGS,Geothermal,Enhanced Geothermal System,2010,0.092,Geothermal
+Distributed Generation,Distributed Generation,Microturbine,2014,0.091,Geothermal
+Hydroelectric,Hydroelectric,Conventional,2010,0.091,Geothermal
+Biopower,Biopower,,2009,0.091,Geothermal
+Nuclear,Nuclear,,2014,0.09,Geothermal
+Hydroelectric,Hydroelectric,,2010,0.09,Geothermal
+Onshore,Land-Based Wind,,2009,0.09,Geothermal
+Onshore,Land-Based Wind,,2009,0.09,Geothermal
+EGS,Geothermal,Enhanced Geothermal System,2009,0.09,Geothermal
+IGCC,Coal,IGCC,2010,0.088,Water
+Onshore,Land-Based Wind,,2009,0.088,Water
+Hydrothermal,Geothermal,Binary,2009,0.088,Water
+Biopower,Biopower,,2009,0.087,Water
+IGCC,Coal,IGCC,2007,0.087,Water
+Onshore,Land-Based Wind,,2010,0.086,Water
+IGCC,Coal,IGCC,2007,0.086,Water
+Onshore,Land-Based Wind,,2009,0.085,Water
+Biopower,Biopower,Fluidized Bed,2009,0.085,Water
+IGCC,Coal,IGCC CCS,2009,0.085,Water
+Hydroelectric,Hydroelectric,,2009,0.084,Water
+Biopower,Biopower,,2009,0.084,Water
+IGCC,Coal,IGCC,2007,0.084,Water
+Hydrothermal,Geothermal,Flash,2013,0.083,Water
+Fuel Cell,Fuel Cell,,2010,0.083,Water
+Distributed Generation,Distributed Generation,,2009,0.083,Water
+IGCC,Coal,IGCC CCS,2009,0.083,Water
+EGS,Geothermal,Enhanced Geothermal System,2014,0.082,Water
+Hydrothermal,Geothermal,Flash,2013,0.082,Water
+Biopower,Biopower,Stoker CHP,2012,0.082,Water
+EGS,Geothermal,Enhanced Geothermal System,2009,0.082,Water
+Onshore,Land-Based Wind,,2008,0.082,Water
+Nuclear,Nuclear,,2010,0.081,Water
+Combustion Turbine,Combustion Turbine,Advanced Combustion Turbine,2009,0.081,Water
+IGCC,Coal,IGCC,2010,0.08,Water
+Biopower,Biopower,Fluidized Bed,2009,0.08,Water
+Onshore,Land-Based Wind,,2009,0.079,Water
+Nuclear,Nuclear,,2009,0.079,Water
+IGCC,Coal,IGCC,2007,0.079,Water
+IGCC,Coal,IGCC,2007,0.079,Water
+Hydrothermal,Geothermal,Flash,2011,0.078,Water
+Blind Geothermal,Geothermal,Blind,2010,0.078,Biomass
+Nuclear,Nuclear,,2010,0.078,Biomass
+Biopower,Biopower,Biogas,2009,0.078,Biomass
+Onshore,Land-Based Wind,,2014,0.076,Biomass
+Onshore,Land-Based Wind,,2011,0.076,Bio Gas
+Hydrothermal,Geothermal,Binary,2011,0.076,Biomass
+Onshore,Land-Based Wind,,2009,0.076,Biomass
+Combined Cycle,Combined Cycle,,2014,0.075,Bio Gas
+Hydrothermal,Geothermal,Binary,2013,0.075,Biomass
+Hydroelectric,Hydroelectric,,2010,0.075,Biomass
+EGS,Geothermal,Enhanced Geothermal System,2009,0.075,Biomass
+IGCC,Coal,IGCC,2007,0.075,Biomass
+Onshore,Land-Based Wind,,2011,0.074,Biomass
+Biopower,Biopower,Fluidized Bed,2011,0.074,Biomass
+Onshore,Land-Based Wind,,2009,0.074,Biomass
+Hydrothermal,Geothermal,Flash,2009,0.074,Biomass
+Biopower,Biopower,,2009,0.074,Biomass
+Biopower,Biopower,Biogas,2012,0.073,Biomass
+Hydroelectric,Hydroelectric,,2011,0.073,Biomass
+Biopower,Biopower,Fluidized Bed,2011,0.073,Biomass
+Onshore,Land-Based Wind,,2010,0.073,Biomass
+IGCC,Coal,IGCC,2007,0.073,Biomass
+Onshore,Land-Based Wind,,2010,0.072,Biomass
+Onshore,Land-Based Wind,,2010,0.072,Biomass
+Onshore,Land-Based Wind,,2009,0.072,Biomass
+Combined Cycle,Combined Cycle,,2009,0.072,Biomass
+Biopower,Biopower,Fluidized Bed,2011,0.071,Biomass
+Onshore,Land-Based Wind,,2010,0.071,Biomass
+Combined Cycle,Combined Cycle,conventional CC,2009,0.071,Biomass
+Onshore,Land-Based Wind,,2011,0.07,Biomass
+Fuel Cell,Fuel Cell,,2009,0.07,Biomass
+Onshore,Land-Based Wind,,2013,0.069,Biomass
+Scrubbed,Coal,Advanced PC,2010,0.069,Biomass
+Combined Cycle,Combined Cycle,Advanced CC CCS,2009,0.069,Biomass
+Onshore,Land-Based Wind,,2009,0.068,Biomass
+Small Hydropower,Small Hydro,,2009,0.068,Biomass
+Hydrothermal,Geothermal,Flash,2010,0.067,Biomass
+Onshore,Land-Based Wind,,2009,0.067,Biomass
+Combined Cycle,Combined Cycle,Conventional CC,2009,0.067,Biomass
+Onshore,Land-Based Wind,,2008,0.067,Biomass
+Scrubbed,Coal,Advanced PC,2014,0.066,Biomass
+Combined Cycle,Combined Cycle,,2013,0.066,Biomass
+Combined Cycle,Combined Cycle,,2013,0.066,Biomass
+Onshore,Land-Based Wind,,2011,0.066,Biomass
+Hydroelectric,Hydroelectric,,2011,0.066,Biomass
+Onshore,Land-Based Wind,,2010,0.066,Biomass
+Onshore,Land-Based Wind,,2010,0.066,Biomass
+Onshore,Land-Based Wind,,2010,0.066,Biomass
+Biopower,Biopower,,2010,0.066,Biomass
+Nuclear,Nuclear,,2011,0.065,Biomass
+Onshore,Land-Based Wind,,2010,0.065,Biomass
+Onshore,Land-Based Wind,,2009,0.065,Biomass
+Onshore,Land-Based Wind,,2013,0.064,Biomass
+Onshore,Land-Based Wind,,2012,0.064,Biomass
+Biopower,Biopower,Digester,2012,0.064,Biomass
+Biopower,Biopower,Fluidized Bed,2011,0.064,Biomass
+Onshore,Land-Based Wind,,2010,0.064,Biomass
+Onshore,Land-Based Wind,,2010,0.064,Biomass
+Onshore,Land-Based Wind,,2009,0.064,Natural Gas
+Onshore,Land-Based Wind,,2009,0.064,Natural Gas
+Scrubbed,Coal,Advanced PC,2009,0.064,Biomass
+Onshore,Land-Based Wind,,2008,0.064,Biomass
+Hydrothermal,Geothermal,Flash,2011,0.063,Biomass
+Biopower,Biopower,Fluidized Bed,2011,0.063,Biomass
+Distributed Generation,Distributed Generation,,2011,0.063,Biomass
+Biopower,Biopower,,2009,0.063,Biomass
+Nuclear,Nuclear,,2009,0.063,Biomass
+Onshore,Land-Based Wind,,2009,0.062,Biomass
+Solar Thermal,Solar Thermal,,2009,0.062,Biomass
+Combined Cycle,Combined Cycle,Advanced CC,2009,0.062,Diesel
+IGCC,Coal,IGCC,2009,0.062,Diesel
+IGCC,Coal,IGCC,2009,0.062,Natural Gas
+Onshore,Land-Based Wind,,2013,0.061,Natural Gas
+Onshore,Land-Based Wind,,2012,0.061,Natural Gas
+Biopower,Biopower,Fluidized Bed,2011,0.061,Natural Gas
+Nuclear,Nuclear,,2011,0.061,Natural Gas
+Biopower,Biopower,Fluidized Bed,2009,0.061,Natural Gas
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2009,0.061,Natural Gas
+Nuclear,Nuclear,,2009,0.061,Natural Gas
+Onshore,Land-Based Wind,,2007,0.061,Natural Gas
+Biopower,Biopower,Fluidized Bed,2012,0.06,Natural Gas
+Biopower,Biopower,Fluidized Bed,2012,0.06,Natural Gas
+Hydroelectric,Hydroelectric,,2009,0.06,Bio Gas
+Hydrothermal,Geothermal,Binary,2008,0.06,Natural Gas
+Hydrothermal,Geothermal,Binary,2007,0.06,Natural Gas
+Hydrothermal,Geothermal,Binary,2009,0.059,Natural Gas
+Scrubbed,Coal,Advanced PC,2009,0.059,Natural Gas
+EGS,Geothermal,Enhanced Geothermal System,2008,0.059,Natural Gas
+EGS,Geothermal,Enhanced Geothermal System,2007,0.059,Natural Gas
+Hydrothermal,Geothermal,Binary,2013,0.058,Natural Gas
+Onshore,Land-Based Wind,,2010,0.058,Natural Gas
+Hydroelectric,Hydroelectric,,2010,0.058,Natural Gas
+Onshore,Land-Based Wind,,2009,0.058,Natural Gas
+Onshore,Land-Based Wind,,2009,0.058,Natural Gas
+EGS,Geothermal,Enhanced Geothermal System,2009,0.058,Natural Gas
+Onshore,Land-Based Wind,,2006,0.057,Natural Gas
+Photovoltaic,Photovoltaic,Utility,2014,0.056,Natural Gas
+Photovoltaic,Photovoltaic,Utility,2014,0.056,Natural Gas
+Distributed Generation,Distributed Generation,,2011,0.056,Natural Gas
+Hydrothermal,Geothermal,Binary,2009,0.056,Natural Gas
+Onshore,Land-Based Wind,,2008,0.056,Natural Gas
+Onshore,Land-Based Wind,,2013,0.055,Natural Gas
+Biopower,Biopower,Stoker boiler,2012,0.055,Natural Gas
+Biopower,Biopower,Fluidized Bed,2011,0.055,Natural Gas
+Onshore,Land-Based Wind,Utility,2013,0.054,Natural Gas
+Onshore,Land-Based Wind,,2013,0.054,Natural Gas
+Biopower,Biopower,Fluidized Bed,2011,0.054,Natural Gas
+Onshore,Land-Based Wind,Utility,2014,0.053,Natural Gas
+Onshore,Land-Based Wind,,2011,0.053,Natural Gas
+Combined Cycle,Combined Cycle,conventional CC,2009,0.053,Natural Gas
+Combustion Turbine,Combustion Turbine,Advanced Combustion Turbine,2009,0.053,Natural Gas
+Combustion Turbine,Combustion Turbine,,2009,0.053,Natural Gas
+Onshore,Land-Based Wind,,2008,0.053,Natural Gas
+Nuclear,Nuclear,,2007,0.053,Natural Gas
+Biopower,Biopower,Fluidized Bed,2011,0.052,Natural Gas
+Hydroelectric,Hydroelectric,,2010,0.052,Natural Gas
+Hydroelectric,Hydroelectric,Conventional,2010,0.052,Natural Gas
+Hydrothermal,Geothermal,Flash,2009,0.052,Natural Gas
+Biopower,Biopower,Fluidized Bed,2009,0.052,Natural Gas
+Onshore,Land-Based Wind,,2005,0.052,Natural Gas
+Hydrothermal,Geothermal,Flash,2013,0.051,Natural Gas
+Hydrothermal,Geothermal,Binary,2011,0.051,Natural Gas
+EGS,Geothermal,Enhanced Geothermal System,2011,0.051,Natural Gas
+Combined Cycle,Combined Cycle,,2010,0.051,Natural Gas
+Onshore,Land-Based Wind,,2009,0.051,Natural Gas
+Combined Cycle,Combined Cycle,Conventional CC,2009,0.051,Natural Gas
+Onshore,Land-Based Wind,,2009,0.05,Natural Gas
+Combined Cycle,Combined Cycle,,2014,0.049,Natural Gas
+Distributed Generation,Distributed Generation,,2011,0.049,Natural Gas
+Hydrothermal,Geothermal,,2010,0.049,Natural Gas
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2010,0.049,Natural Gas
+Combined Cycle,Combined Cycle,Conventional CC,2009,0.049,Natural Gas
+Biopower,Biopower,Biogas,2009,0.048,Natural Gas
+Combined Cycle,Combined Cycle,Advanced CC,2009,0.048,Natural Gas
+Onshore,Land-Based Wind,,2013,0.047,Natural Gas
+Hydrothermal,Geothermal,Flash,2011,0.047,Natural Gas
+Onshore,Land-Based Wind,,2008,0.047,Natural Gas
+Onshore,Land-Based Wind,,2005,0.047,Natural Gas
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2010,0.046,Natural Gas
+Combined Cycle,Combined Cycle,Advanced CC,2009,0.046,Natural Gas
+Onshore,Land-Based Wind,,2010,0.045,Natural Gas
+Combined Cycle,Combined Cycle,,2009,0.045,Coal
+Onshore,Land-Based Wind,,2009,0.044,Coal
+Onshore,Land-Based Wind,,2009,0.044,Coal
+Hydrothermal,Geothermal,Flash,2008,0.044,Coal
+Hydrothermal,Geothermal,Flash,2007,0.044,Coal
+Hydrothermal,Geothermal,Flash,2009,0.043,Coal
+Combined Cycle,Combined Cycle,conventional CC,2009,0.043,Coal
+Combined Cycle,Combined Cycle,Conventional CC,2009,0.042,Coal
+Onshore,Land-Based Wind,,2008,0.042,Coal
+Onshore,Land-Based Wind,,2009,0.041,Coal
+Onshore,Land-Based Wind,,2009,0.04,Coal
+Hydrothermal,Geothermal,Flash,2009,0.04,Coal
+Combined Cycle,Combined Cycle,Advanced CC,2009,0.04,Coal
+Hydrothermal,Geothermal,Flash,2009,0.039,Coal
+Combined Cycle,Combined Cycle,Advanced CC CCS,2010,0.038,Coal
+Combustion Turbine,Combustion Turbine,Advanced Combustion Turbine,2010,0.038,Coal
+Scrubbed,Coal,Advanced PC,2010,0.038,Coal
+Distributed Generation,Distributed Generation,Diesel,2014,0.037,Coal
+Hydrothermal,Geothermal,Flash,2009,0.037,Coal
+Hydroelectric,Hydroelectric,Conventional,2009,0.037,Coal
+Onshore,Land-Based Wind,,2014,0.035,Coal
+Hydroelectric,Hydroelectric,Conventional,2009,0.035,Coal
+Combustion Turbine,Combustion Turbine,Advanced Combustion Turbine,2009,0.035,Coal
+Hydrothermal,Geothermal,Binary,2009,0.034,Coal
+Hydroelectric,Hydroelectric,,2011,0.033,Coal
+Hydroelectric,Hydroelectric,,2009,0.032,Coal
+Hydroelectric,Hydroelectric,,2009,0.032,Coal
+Combined Cycle,Combined Cycle,Advanced CC CCS,2009,0.032,Coal
+Combustion Turbine,Combustion Turbine,Conventional Combustion Turbine,2009,0.032,Coal
+Combined Cycle,Combined Cycle,,2007,0.031,Coal
+Combined Cycle,Combined Cycle,,2007,0.03,Coal
+Combined Cycle,Combined Cycle,,2007,0.029,Coal
+Combined Cycle,Combined Cycle,Conventional CC,2010,0.024,Coal
+Combined Cycle,Combined Cycle,,2009,0.023,Coal
+Combined Cycle,Combined Cycle,Advanced CC,2010,0.019,Coal
+Small Hydropower,Small Hydro,,2009,0.019,Coal
+Combined Cycle,Combined Cycle,,2010,0.018,Coal
+Combined Cycle,Combined Cycle,Advanced CC,2009,0.017,Uranium
+Combined Cycle,Combined Cycle,,2009,0.017,Uranium
+Combined Cycle,Combined Cycle,,2007,0.016,Uranium
+Biopower,Biopower,Coal Co-fire,2011,0.015,Uranium
+Combined Cycle,Combined Cycle,,2007,0.015,Uranium
+Biopower,Biopower,Coal Co-fire,2011,0.014,Uranium
+Combined Cycle,Combined Cycle,,2007,0.014,Uranium
+Biopower,Biopower,Coal Co-fire,2011,0.013,Uranium
+Hydroelectric,Hydroelectric,Conventional,2009,0.013,Uranium
+Biopower,Biopower,Coal Co-fire,2011,0.01,Solar
+Biopower,Biopower,Coal Co-fire,2011,0.01,Uranium
+Distributed Generation,Distributed Generation,Diesel,2014,0.009,Uranium
+Biopower,Biopower,Coal Co-fire,2011,0.009,Uranium

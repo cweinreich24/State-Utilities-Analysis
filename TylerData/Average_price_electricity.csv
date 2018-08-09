@@ -1,0 +1,52 @@
+Average retail price of electricity,cents per kilowatthour,source key,2012,2013,2014,2015,2016,2017,Average6YearRate
+Connecticut,cents per kilowatthour,ELEC.PRICE.CT-ALL.A,15.54,15.66,17.05,17.77,17.24,17.62,16.81
+Maine,cents per kilowatthour,ELEC.PRICE.ME-ALL.A,11.81,11.86,12.65,12.78,12.8,12.94,12.47
+Massachusetts,cents per kilowatthour,ELEC.PRICE.MA-ALL.A,13.79,14.51,15.35,16.9,16.48,16.14,15.53
+New Hampshire,cents per kilowatthour,ELEC.PRICE.NH-ALL.A,14.19,14.3,15.22,16.02,15.66,16.16,15.26
+Rhode Island,cents per kilowatthour,ELEC.PRICE.RI-ALL.A,12.74,13.72,15.41,17.01,16.28,16.44,15.27
+Vermont,cents per kilowatthour,ELEC.PRICE.VT-ALL.A,14.22,14.61,14.57,14.41,14.46,14.57,14.47
+New Jersey,cents per kilowatthour,ELEC.PRICE.NJ-ALL.A,13.68,13.69,13.95,13.74,13.38,13.38,13.64
+New York,cents per kilowatthour,ELEC.PRICE.NY-ALL.A,15.15,15.44,16.25,15.28,14.47,14.78,15.23
+Pennsylvania,cents per kilowatthour,ELEC.PRICE.PA-ALL.A,9.91,9.81,10.28,10.31,10.19,10.16,10.11
+Illinois,cents per kilowatthour,ELEC.PRICE.IL-ALL.A,8.4,8.26,9.36,9.4,9.38,9.33,9.02
+Indiana,cents per kilowatthour,ELEC.PRICE.IN-ALL.A,8.29,8.73,9.06,8.99,9.22,9.61,8.98
+Michigan,cents per kilowatthour,ELEC.PRICE.MI-ALL.A,10.98,11.21,11.03,10.76,11.05,11.39,11.07
+Ohio,cents per kilowatthour,ELEC.PRICE.OH-ALL.A,9.12,9.2,9.73,9.98,9.84,9.71,9.6
+Wisconsin,cents per kilowatthour,ELEC.PRICE.WI-ALL.A,10.28,10.51,10.57,10.73,10.67,11.05,10.64
+Iowa,cents per kilowatthour,ELEC.PRICE.IA-ALL.A,7.71,8.07,8.15,8.35,8.55,8.92,8.29
+Kansas,cents per kilowatthour,ELEC.PRICE.KS-ALL.A,9.33,9.72,10.16,10.14,10.49,10.58,10.07
+Minnesota,cents per kilowatthour,ELEC.PRICE.MN-ALL.A,8.86,9.41,9.52,9.53,9.99,10.53,9.64
+Missouri,cents per kilowatthour,ELEC.PRICE.MO-ALL.A,8.53,9.04,9.11,9.44,9.74,9.83,9.28
+Nebraska,cents per kilowatthour,ELEC.PRICE.NE-ALL.A,8.37,8.74,8.84,8.91,9.05,9.16,8.85
+North Dakota,cents per kilowatthour,ELEC.PRICE.ND-ALL.A,7.83,8.2,8.41,8.75,8.94,9.26,8.57
+South Dakota,cents per kilowatthour,ELEC.PRICE.SD-ALL.A,8.49,8.86,9.05,9.47,9.83,9.98,9.28
+Delaware,cents per kilowatthour,ELEC.PRICE.DE-ALL.A,11.06,10.9,11.22,11.17,11.09,10.99,11.07
+District Of Columbia,cents per kilowatthour,ELEC.PRICE.DC-ALL.A,11.85,11.85,12.11,12.07,11.73,11.81,11.9
+Florida,cents per kilowatthour,ELEC.PRICE.FL-ALL.A,10.44,10.22,10.77,10.49,9.91,10.65,10.41
+Georgia,cents per kilowatthour,ELEC.PRICE.GA-ALL.A,9.37,9.69,10.03,9.62,9.59,9.75,9.68
+Maryland,cents per kilowatthour,ELEC.PRICE.MD-ALL.A,11.28,11.66,12.1,12.07,12.21,12,11.89
+North Carolina,cents per kilowatthour,ELEC.PRICE.NC-ALL.A,9.15,9.24,9.33,9.37,9.2,9.15,9.24
+South Carolina,cents per kilowatthour,ELEC.PRICE.SC-ALL.A,9.1,9.24,9.67,9.58,9.79,9.83,9.54
+Virginia,cents per kilowatthour,ELEC.PRICE.VA-ALL.A,9.07,8.96,9.17,9.31,9.09,9.28,9.15
+West Virginia,cents per kilowatthour,ELEC.PRICE.WV-ALL.A,8.14,7.91,7.65,8.11,8.98,9,8.3
+Alabama,cents per kilowatthour,ELEC.PRICE.AL-ALL.A,9.18,9.02,9.27,9.33,9.56,9.89,9.38
+Kentucky,cents per kilowatthour,ELEC.PRICE.KY-ALL.A,7.26,7.69,8.15,8.14,8.42,8.44,8.02
+Mississippi,cents per kilowatthour,ELEC.PRICE.MS-ALL.A,8.6,9.11,9.6,9.53,8.67,9.19,9.12
+Tennessee,cents per kilowatthour,ELEC.PRICE.TN-ALL.A,9.27,9.13,9.4,9.3,9.23,9.54,9.31
+Arkansas,cents per kilowatthour,ELEC.PRICE.AR-ALL.A,7.62,7.93,7.9,8.19,8.13,8.18,7.99
+Louisiana,cents per kilowatthour,ELEC.PRICE.LA-ALL.A,6.9,8.04,8.09,7.65,7.46,7.75,7.65
+Oklahoma,cents per kilowatthour,ELEC.PRICE.OK-ALL.A,7.54,7.86,8.18,7.9,7.83,8.12,7.91
+Texas,cents per kilowatthour,ELEC.PRICE.TX-ALL.A,8.55,8.66,8.94,8.7,8.43,8.55,8.64
+Arizona,cents per kilowatthour,ELEC.PRICE.AZ-ALL.A,9.81,10.14,10.18,10.34,10.33,10.71,10.25
+Colorado,cents per kilowatthour,ELEC.PRICE.CO-ALL.A,9.39,9.88,10.06,9.94,9.83,9.94,9.84
+Idaho,cents per kilowatthour,ELEC.PRICE.ID-ALL.A,6.92,7.57,7.93,8.09,8.08,8.3,7.82
+Montana,cents per kilowatthour,ELEC.PRICE.MT-ALL.A,8.25,8.58,8.59,8.9,8.84,9.02,8.7
+Nevada,cents per kilowatthour,ELEC.PRICE.NV-ALL.A,8.95,9.03,9.73,9.48,8.38,8.76,9.06
+New Mexico,cents per kilowatthour,ELEC.PRICE.NM-ALL.A,8.83,9.25,9.65,9.62,9.12,9.64,9.35
+Utah,cents per kilowatthour,ELEC.PRICE.UT-ALL.A,7.84,8.15,8.35,8.54,8.72,8.66,8.38
+Wyoming,cents per kilowatthour,ELEC.PRICE.WY-ALL.A,7.19,7.55,7.76,7.97,8.19,8.29,7.83
+California,cents per kilowatthour,ELEC.PRICE.CA-ALL.A,13.53,14.3,15.15,15.42,15.23,16.14,14.96
+Oregon,cents per kilowatthour,ELEC.PRICE.OR-ALL.A,8.21,8.44,8.68,8.75,8.83,8.98,8.65
+Washington,cents per kilowatthour,ELEC.PRICE.WA-ALL.A,6.94,7.09,7.13,7.4,7.68,7.94,7.36
+Alaska,cents per kilowatthour,ELEC.PRICE.AK-ALL.A,16.33,16.49,17.46,17.59,17.93,19.52,17.55
+ Hawaii,cents per kilowatthour,ELEC.PRICE.HI-ALL.A,34.04,33.26,33.43,26.17,23.87,26.07,29.47
